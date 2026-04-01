@@ -1,7 +1,7 @@
 ---
 name: Create a meta thread, based on a review request
 about: For use by APA chairs and staff to set up the discussion space for reviewers
-title: <copy the title of the a11y-request issue>
+title: REPLACE_WITH_TITLE_OF_SPEC
 labels: review-meta-thread
 assignees: ''
 ---

@@ -17,7 +17,7 @@ comment_goes_here
 
 ## Instructions
 
-This follows the process at https://www.w3.org/WAI/APA/wiki/Horizontal_Review#For_Specifications_2
+This follows the process at documented in the [APA Members' review guide](https://github.com/w3c/apa/blob/main/process/spec-review-guide.md).
 
 1. Create the review comment you want to propose by replacing the prompts above these instructions, but **LEAVE ALL THE INSTRUCTIONS INTACT**.
 
